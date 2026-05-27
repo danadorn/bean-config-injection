@@ -1,7 +1,7 @@
-package co.istad.webdev.config;
+package co.istad.webdev.coffee.config;
 
 
-import co.istad.webdev.annotaionbean.Coffee;
+import co.istad.webdev.coffee.annotaionbean.Coffee;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

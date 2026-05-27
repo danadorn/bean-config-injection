@@ -1,4 +1,4 @@
-package co.istad.webdev.annotaionbean;
+package co.istad.webdev.coffee.annotaionbean;
 
 
 import lombok.AllArgsConstructor;
